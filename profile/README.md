@@ -15,5 +15,5 @@ Our team name means giving patients a warmful experience, thinking on the patien
 | --- | --- | ---- |
 | Donghyun Geum | Inje University | **Leader**, Game Development |
 | Minjeong Gwak | Chungbuk National University | Hardware Architect |
-| Kyungrae Kang | Pusan National University | Documentation |
+| Kyungrae Kang | Pusan National University | Artificial Intelligence |
 | Jungmin Yoon | Soonchunhyang University | UI/UX Design |
